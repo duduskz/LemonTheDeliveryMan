@@ -1,0 +1,7 @@
+name: LemonTheDeliveryMan
+version: '${project.version}'
+main: cn.seabedcraft.lemonthedeliveryman.LemonTheDeliveryMan
+depend: [SeabedCraftLobbySystem]
+commands:
+  thedeliveryman:
+    description: duduskzNB

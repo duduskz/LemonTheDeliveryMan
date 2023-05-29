@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.YiC200333:XConomyAPI:2.19.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/YiC200333/XConomyAPI/2.19.1/XConomyAPI-2.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/YiC200333/XConomyAPI/2.19.1/XConomyAPI-2.19.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/YiC200333/XConomyAPI/2.19.1/XConomyAPI-2.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+MySQL:
+  url: 127.0.0.1
+  port: 3306
+  db: LemonTheDeliveryMan
+  username: root
+  password: root
+APIMySQL:
+  url: 127.0.0.1
+  port: 3306
+  db: LemonAPI
+  username: root
+  password: root
